@@ -5,7 +5,7 @@
 
 ;; Set up theme
 (require 'color-theme-sanityinc-tomorrow)
-(load-theme 'sanityinc-tomorrow-night t)
+(load-theme 'sanityinc-tomorrow-bright t)
 
 ;; Start magit-status
 (setq magit-display-buffer-function #'magit-display-buffer-same-window-except-diff-v1)
